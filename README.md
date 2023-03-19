@@ -1,0 +1,2 @@
+# static-website
+new repo
